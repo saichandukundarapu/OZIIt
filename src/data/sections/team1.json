@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/IM1.jpg",
+    "name": "Vrinchi",
+    "title": "CEO & Managing Director"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/IM2.jpg",
+    "name": "Kalyan Reddy",
+    "title": "Founder& Managing Director "
+  },
+  {
+    "id": 3,
+    "image": "",
+    "name": "",
+    "title": ""
+  },
+  {
+    "id": 4,
+    "image": "",
+    "name": "",
+    "title": ""
+  },
+  {
+    "id": 5,
+    "image": "",
+    "name": "",
+    "title": ""
+  },
+  {
+    "id": 6,
+    "image": "",
+    "name": "",
+    "title": ""
+  }
+]

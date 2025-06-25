@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "",
+      "second": "Build Smarter with AI"
+    },
+    "content": "Create stunning websites and apps with Ozi’s AI-powered development tools. Fast, scalable, and tailored to you.",
+    "image": "/img/slid/AI3.png"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Find Top Talent",
+      "second": "Hire Today"
+    },
+    "content": "Discover the perfect IT professionals with Ozi’s AI-enhanced recruitment and staffing solutions.",
+    "image": "/img/slid/Hire.png"
+  },
+  {
+    "id": 3,
+    "title": "Transform Your Workflow",
+    "content": "Boost productivity with Ozi’s intuitive software and expert consulting services.",
+    "image": "/img/slid/TF.png"
+  }
+]

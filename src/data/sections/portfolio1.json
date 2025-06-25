@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/1.jpg",
+    "title": "MEREN STACK",
+    "tags": ["WEB ", "App Development"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/2.jpg",
+    "title": "AI and Machine Learning Frameworks",
+    "tags": ["BACK END & BUSINESS LOGIC"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/3.jpg",
+    "title": "Google Marketing Platform",
+    "tags": ["SEO", "DIGITAL MARKETING"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/4.jpg",
+    "title": "DevOps Framework",
+    "tags": ["Planning ", "Integration Solutions"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/5.jpg",
+    "title": "Recruitment Planning and Sourcing Tools",
+    "tags": ["Onboarding and Selection "],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/6.jpg",
+    "title": "Machine Learning & Depp Learning Frameworks",
+    "tags": ["BUSINESS EFFICIENCY"],
+    "filterCategory": ["brand"]
+  }
+]
