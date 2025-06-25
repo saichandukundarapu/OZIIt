@@ -1,7 +1,7 @@
 import React from "react";
 import LightTheme from "../../layouts/Light";
 import Navbar from "../../components/Navbar";
-import ProjectDetailsHeader from "../../components/Project-details-headerML";
+
 import ProjectDetailsIntroduction from "../../components/Project-details-introduction";
 import ProjectDetailsImages from "../../components/Project-details-images";
 import ProjectDetailsDescription from "../../components/Project-details-description";
@@ -30,7 +30,7 @@ const ProjectDetailsLight = () => {
   return (
     <LightTheme>
       <Navbar nr={navbarRef} lr={logoRef} theme="themeL" />
-      <ProjectDetailsHeader />
+      
       <ProjectDetailsIntroduction />
       <ProjectDetailsImages />
       <ProjectDetailsDescription />
