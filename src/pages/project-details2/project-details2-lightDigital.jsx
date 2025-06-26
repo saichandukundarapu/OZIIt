@@ -40,7 +40,7 @@ const ProjectDetails2Light = () => {
         className="project-header"
         style={{
           position: "relative",
-          backgroundImage: "url('/img/IMG14.PNG')",
+          backgroundImage: "url('/img/IMG14.png')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           padding: "160px 0 120px",
@@ -76,7 +76,7 @@ const ProjectDetails2Light = () => {
           {/* Image */}
           <div style={{ flex: "1 1 300px", marginRight: "40px" }}>
             <img
-              src="/img/IMG15.JPG"
+              src="/img/IMG15.jpg"
               alt="Project Visual"
               style={{ width: "100%", maxWidth: "350px", height: "auto", borderRadius: "", boxShadow: "" }}
             />

@@ -40,7 +40,7 @@ const ProjectDetails2LightML = () => {
         className="project-header"
         style={{
           position: "relative",
-          backgroundImage: "url('/img/IMG6.PNG')",
+          backgroundImage: "url('/img/IMG6.png')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           padding: "160px 0 120px",
@@ -56,7 +56,7 @@ const ProjectDetails2LightML = () => {
           left: 0,
           height: "100%",
           width: "100%",
-          backgroundColor: "rgba(0,0,0,0.5)",
+          backgroundColor: "rgba(0,0,0,0.5)",     
           zIndex: 0
         }}></div>
 
@@ -76,14 +76,14 @@ const ProjectDetails2LightML = () => {
           {/* Image */}
           <div style={{ flex: "1 1 300px", marginRight: "40px" }}>
             <img
-              src="/img/IMG7.JPG"
+              src="/img/IMG7.jpg"
               alt="Project Visual"
               style={{ width: "100%", maxWidth: "350px", height: "auto", borderRadius: "", boxShadow: "" }}
             />
-          </div>
+          </div> 
 
           {/* Text */}
-          <div style={{ flex: "2 1 500px" }}>
+          <div style={{ flex: "2 1 500px" }}> 
             <h2 style={{ fontSize: "32px", marginBottom: "20px",color: "" }}>AI and Machine Learning</h2>
             <p style={{ fontSize: "16px", lineHeight: "1.7" }}>
             Ozi’s AI and machine learning services empower businesses with intelligent, data-driven solutions that enhance web and app development, digital marketing, and IT staffing for startups, SMEs, and enterprises. Leveraging advanced frameworks like TensorFlow and PyTorch, combined with cutting-edge algorithms, we design custom AI models that optimize processes, personalize user experiences, and provide actionable insights. Our expert team collaborates closely with clients to integrate these solutions seamlessly, ensuring scalability, accuracy, and innovation, while continuously adapting to emerging trends and business needs.

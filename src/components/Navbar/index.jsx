@@ -83,7 +83,7 @@ const Navbar = ({ lr, nr, theme, isDark, toggleTheme }) => {
                 <Link href="/project-details2/project-details2-lightML"><a className="dropdown-item">AI & ML</a></Link>
                 <Link href="/project-details2/project-details2-light"><a className="dropdown-item">WEBSITE DEVELOPMENT.</a></Link>
                 <Link href="/project-details2/project-details2-lightAPP"><a className="dropdown-item">APP DEVELOPMENT</a></Link>
-                <Link href="/project-details2/project-details2-lightAPP"><a className="dropdown-item">APP DEVELOPMENT</a></Link>
+                
                 <Link href="/project-details2/project-details2-lightDigital"><a className="dropdown-item">Digital Marketing.</a></Link>
 
 
